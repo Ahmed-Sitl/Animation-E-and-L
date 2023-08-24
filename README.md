@@ -47,4 +47,4 @@ This project demonstrates an animation effect using HTML and CSS to create a gri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/animation-grid.git
+   git clone https://github.com/ahmed-sitl/animation-grid.git
